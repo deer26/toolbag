@@ -1,0 +1,12 @@
+{
+    "header" : "TO-DO LIST",
+    "mission" : "Tasks",
+    "newtask" : "New Task",
+    "add" : "Add",
+    "theme":"Dark Theme",
+    "turkish": "Turkish",
+    "english":"English",
+    "language" : "Language",
+    "del" : "Deletion Process",
+    "quest" : "The task will be deleted. Do you want to continue with the process?"
+}

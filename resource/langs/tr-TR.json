@@ -1,0 +1,12 @@
+{
+    "header": "Yapılacaklar Listesi",
+    "mission": "Görev",
+    "newtask": "Yeni Görev",
+    "add": "Ekle",
+    "theme":"Koyu Tema",
+    "turkish": "Türkçe",
+    "english":"İngilizce",
+    "language" : "Dil",
+    "del" : "Silme İşlemi",
+    "quest" : "Görev silinecek. İşleme devam etmek istiyor musunuz?"
+}
